@@ -1,0 +1,1 @@
+The topic of the Elliptic Curves Digital Signature Algorithm is thoroughly explained in my article: https://medium.com/@exemak/elliptic-curves-and-ecdsa-from-understanding-the-concept-to-signing-a-transaction-in-bitcoin-dd07851fe0a8
